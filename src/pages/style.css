@@ -1,0 +1,29 @@
+.loginForm{
+    display: grid;
+    width: 30%;
+    height: 20%;
+    position:absolute;
+}
+
+.cardSyyle{
+    outline: 2px solid #818181;
+    border-radius: 10px;
+    padding: 2%;
+}
+.cardSyyle1{
+    width: 30%;
+    outline: 2px solid #818181;
+    border-radius: 10px;
+    padding: 2%;
+}
+.cardSyyle2{
+    width: 100%;
+    outline: 2px solid #818181;
+    border-radius: 10px;
+    padding: 2%;
+}
+.minicardStyle{
+    outline: 1px solid #818181;
+    border-radius: 10px;
+    padding: 2%;
+}
